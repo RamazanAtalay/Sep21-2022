@@ -2,3 +2,4 @@ Bu dosya Top Down approach'u anlamak icin hazirlandi.
 
 
 Bu degisiklik istenmeyen bir degisiklik.
+Remote degisiklik
